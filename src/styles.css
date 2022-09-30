@@ -1,7 +1,7 @@
 /* Global Styles */
 
 * {
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: #616161;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
@@ -138,8 +138,4 @@ app-top-bar h1 {
 }
 
 
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
+ 

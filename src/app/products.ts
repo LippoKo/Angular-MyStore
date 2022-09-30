@@ -15,7 +15,7 @@ export const products = [
   {
     id: 2,
     name: 'Phone Mini',
-    price: 699,
+    price: 599,
     description: 'A great phone with one of the best cameras'
   },
   {
@@ -27,8 +27,4 @@ export const products = [
 ];
 
 
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
+ 
